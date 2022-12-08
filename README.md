@@ -11,9 +11,7 @@ https://youtu.be/C_dtCsgOXgw
  
 #### Installation:
  
-You can check my version here: https://rebecca-durst-fullstackbankapp.herokuapp.com/ 
-
-Here's a video demo of the  https://youtu.be/F6EwUAWws5A
+You can check my version here: https://rebecca-durst-fullstackbankapp.herokuapp.com/
 
 Fork this and the Capstone-Bank-CRA projects to your computer. You will have to install MongoDB Compass and [I am forgetting what needs to be done here]. Once you are in the Capstone-Bank-API folder, use "npm start" in the terminal. Then, you can navigate to http://localhost:3000/account/all Now, you will go into the Bank-Capstone-CRA folder and run "npm start" in the terminal. You will then be able to navigate to the http://localhost:8080 to see the website.
  
